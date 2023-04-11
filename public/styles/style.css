@@ -114,3 +114,23 @@ a:hover {
     color: white;
     font-family: "Yomogi";
 }
+
+.about-p {
+  width: 80rem;
+  height: 70rem;
+  margin-right: 5rem;
+  margin-left: 5rem;
+  margin-bottom: 4rem;
+}
+
+.video {
+  width: 80rem;
+  margin-bottom: 10rem;
+  margin-top: -2rem;
+  margin-right: 5rem;
+  margin-left: 5rem;
+}
+
+.peter-img {
+  margin-bottom: 3rem;
+}
